@@ -1,15 +1,35 @@
----------------------
- LICENSE CONDITIONS
----------------------
+LICENSE CERTIFICATE : Minimal - Bootstrap Creative Portfolio
+==============================================
 
-You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to our partner and us.
+This document certifies the purchase of:
+ATTRIBUTION-FREE SINGLE USE LICENSE
 
-If you would prefer removing the backlink from the theme footer, please purchase the attribution-free license at the theme page at https://bootstraptemple.com.
 
-However, you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g., selling it on a marketplace).
+Licensor:
+Bootstrapious
 
-Also, as a bonus for license owners, I can provide you the SASS files for even easier template customization. Drop me a line at hello@bootstraptemple.com after purchasing the license.
+Licensee:
+Andrei Lavrenov, andrei@lavrenov.io
 
-Thank you for understanding and respecting the license conditions.
+Item Title:
+Minimal - Bootstrap Creative Portfolio
 
-If more info needed, please contact me at hello@bootstraptemple.com.
+Item URL:
+https://bootstrapious.com/p/minimal-bootstrap-creative-portfolio
+
+Item ID:
+bootstrapious-177
+
+Item Purchase Code:
+e87ba23be831de5
+
+Purchase Date:
+2021-09-14 20:54 UTC
+
+For any queries related to this document or license please contact Bootstrapious at hello@bootstrapious.com
+
+Thank you for your purchase!
+
+Bootstrapious
+Hasicska 28, 700 30 Ostrava, Czech Republic
+
