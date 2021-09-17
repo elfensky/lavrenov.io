@@ -1,1 +1,44 @@
 /* your styles go here */
+
+.boxshadow {
+    -webkit-box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+/* source-sans-pro-regular - latin-ext_latin */
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/sourcesanspro/source-sans-pro-v14-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/sourcesanspro/source-sans-pro-v14-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+  
+  /* source-sans-pro-700 - latin-ext_latin */
+  @font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('../fonts/sourcesanspro/source-sans-pro-v14-latin-ext_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/sourcesanspro/source-sans-pro-v14-latin-ext_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+  
+.social-share-link.github:hover {
+    background: #333;
+    color: #fafafa;
+}
+  
+.social-share-link.github:hover i {
+    color: #333;
+}
+
+.social-share-link.demo:hover {
+    background: #008fff;
+    color: #fff;
+}
+  
+.social-share-link.demo:hover i {
+    color: #008fff;
+}
